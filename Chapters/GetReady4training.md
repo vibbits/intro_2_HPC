@@ -37,9 +37,9 @@ Please read this page carefully **before** the start of the workshop.
 
 **a.** **Register** for an [HPC account](https://docs.vscentrum.be/access/vsc_account.html) before the course since it might take some time to process and activate. 
 
->
-> P.s.: If you are from industry or in any other situation where you are not linked to an academic institution we can only help you get an account when registered in the VIB course, check avaiability in [VIB training website](https://training.vib.be/?tags%5B103%5D=103).
->
+          >.
+          > P.s.: If you are from industry or in any other situation where you are not linked to an academic institution we can only help you get an account when registered in the VIB course, check avaiability in [VIB training website](https://training.vib.be/?tags%5B103%5D=103).
+          >.
 
 Once you have an account, you can [access it](https://account.vscentrum.be/), and you will be able to see your VSC ID, and other information about your account. Eventually you might want to add an SSH key to connect remotely. You will not need this for this session.
 
